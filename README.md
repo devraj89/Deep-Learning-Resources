@@ -12,4 +12,6 @@ The explanations for CNNs are quite good. In addition they have a section for se
 
 [4] To understand word-2-vec model with complete derivations (a) https://www.youtube.com/watch?v=TsEGsdVJjuA&list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE&index=5 (b) https://www.youtube.com/watch?v=nuirUEmbaJU&list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE&index=6. 
 
+Derivation for the negative sampling is also provided here : https://arxiv.org/pdf/1402.3722.pdf
+
 To understand without derivations http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
