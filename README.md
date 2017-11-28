@@ -14,4 +14,7 @@ The explanations for CNNs are quite good. In addition they have a section for se
 
 Derivation for the negative sampling is also provided here : https://arxiv.org/pdf/1402.3722.pdf
 
+Alternate Resources : (a) http://mccormickml.com/assets/word2vec/Alex_Minnaar_Word2Vec_Tutorial_Part_I_The_Skip-Gram_Model.pdf and 
+(b) http://mccormickml.com/assets/word2vec/Alex_Minnaar_Word2Vec_Tutorial_Part_II_The_Continuous_Bag-of-Words_Model.pdf
+
 To understand without derivations http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
