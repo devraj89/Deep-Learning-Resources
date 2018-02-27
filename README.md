@@ -5,6 +5,8 @@ This is basically a collection all resources which I found to be useful for stud
 [1] Course from deeplearning.ai : https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists
 
 The explanations for CNNs are quite good. In addition they have a section for sequential modeling coming soon!
+Note the sequence models lectures are already uploaded here !!
+https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6
 
 [2] RNN's : The lectures by Prof Ali Ghodsi at https://www.youtube.com/watch?v=AvyhbrQptHk&t=4047s and https://www.youtube.com/watch?v=EAt9_4IhC7s&t=8s are excellant. 
 
@@ -18,3 +20,6 @@ Alternate Resources : (a) http://mccormickml.com/assets/word2vec/Alex_Minnaar_Wo
 (b) http://mccormickml.com/assets/word2vec/Alex_Minnaar_Word2Vec_Tutorial_Part_II_The_Continuous_Bag-of-Words_Model.pdf
 
 To understand without derivations http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+
+[5] To understand the basic working of GAN's I would recommend reading up on the main papers.
+Mainly I read the blogs in https://github.com/wiseodd/generative-models
