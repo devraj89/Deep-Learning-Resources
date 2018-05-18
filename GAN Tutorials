@@ -1,0 +1,15 @@
+Here I am listing all the resources I am using to learn about GAN's and their implementations 
+I will be mostly focussing on the Pytorch learning framework 
+
+[1] Vanila GAN 
+-- main paper : https://arxiv.org/abs/1406.2661
+-- first implementation
+https://github.com/devnag/pytorch-generative-adversarial-networks
+-- a second implementation
+https://wiseodd.github.io/techblog/2017/01/20/gan-pytorch/
+
+[2] DCGAN
+-- main paper : 
+Soumith's own code 
+https://github.com/pytorch/examples/blob/master/dcgan/main.py
+
