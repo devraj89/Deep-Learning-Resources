@@ -9,7 +9,12 @@ https://github.com/devnag/pytorch-generative-adversarial-networks
 https://wiseodd.github.io/techblog/2017/01/20/gan-pytorch/
 
 [2] DCGAN
--- main paper : 
+-- main paper : https://arxiv.org/pdf/1511.06434.pdf
 Soumith's own code 
 https://github.com/pytorch/examples/blob/master/dcgan/main.py
 
+** very important to note the structure of the network being used
+** like use relu do not use fc use batch norm do not use maxpool instead use strided convolutions 
+** paper is same as Ian Goodfellow's work but more experimental in nature and code works
+
+[3] 
