@@ -2,5 +2,10 @@ These are files to study about NLP in the pytorch
 
 pytorch tutorials 
 [1] https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
-[2] https://github.com/spro/practical-pytorch
+[2] https://github.com/spro/practical-pytorch and 
+-- this has been moved into the official pytorch tutorial sections 
+https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html#sphx-glr-intermediate-char-rnn-classification-tutorial-py
+https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
 [3] https://github.com/hunkim/PyTorchZeroToAll
