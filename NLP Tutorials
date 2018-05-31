@@ -9,3 +9,6 @@ https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
 https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 
 [3] https://github.com/hunkim/PyTorchZeroToAll
+
+[4] Understanding and visualizing pytorch lstm batching 
+https://github.com/ngarneau/understanding-pytorch-batching-lstm
