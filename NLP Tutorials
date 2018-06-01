@@ -20,3 +20,6 @@ I should atleast go over these papers :
 
 [4] Understanding and visualizing pytorch lstm batching 
 https://github.com/ngarneau/understanding-pytorch-batching-lstm
+
+[5] https://github.com/eladhoffer/seq2seq.pytorch
+https://github.com/eladhoffer/captionGen
