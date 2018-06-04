@@ -23,3 +23,15 @@ https://github.com/ngarneau/understanding-pytorch-batching-lstm
 
 [5] https://github.com/eladhoffer/seq2seq.pytorch
 https://github.com/eladhoffer/captionGen
+
+
+For image to caption generation
+------------------------------------
+[1] https://github.com/ruotianluo/ImageCaptioning.pytorch
+[2] https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
+[3] https://github.com/ruotianluo/self-critical.pytorch
+
+Some blogs and papers to read 
+-----------------------------
+[1] Show and Tell: A Neural Image Caption Generator -- https://arxiv.org/pdf/1411.4555.pdf
+[2] Show, Attend and Tell: Neural Image Caption Generation with Visual Attention -- https://arxiv.org/pdf/1502.03044.pdf
