@@ -37,4 +37,7 @@ Some blogs and papers to read
 [1] Show and Tell: A Neural Image Caption Generator -- https://arxiv.org/pdf/1411.4555.pdf
 [2] Show, Attend and Tell: Neural Image Caption Generation with Visual Attention -- https://arxiv.org/pdf/1502.03044.pdf
 [3] https://blog.heuritech.com/2016/01/20/attention-mechanism/
-
+[4] Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning -- https://arxiv.org/pdf/1612.01887.pdf
+[5] Self-critical Sequence Training for Image Captioning -- https://arxiv.org/pdf/1612.00563.pdf
+P.S. NOTE THAT I HAVE NOT READ THIS PAPER. THIS PAPER SEEMS TO HAVE BEEN WRITTEN USING THE CONCEPTS OF RE-INFORCEMENT LEARNING!
+[6] 
