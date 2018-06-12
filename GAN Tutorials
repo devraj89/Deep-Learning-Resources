@@ -8,7 +8,10 @@ https://github.com/znxlwm/pytorch-generative-model-collections
 https://github.com/martinarjovsky/WassersteinGAN
 https://github.com/caogang/wgan-gp
 
-[3] ACGAN -- two implementations are available -- both might be correct
-https://github.com/gitlimlab/ACGAN-PyTorch -- does not use class information on D and G
-https://github.com/znxlwm/pytorch-generative-model-collections/blob/master/ACGAN.py -- uses class information on D and G
+[3] ACGAN -- two implementations are available 
+-- does not use class information on D and G as inputs
+https://github.com/gitlimlab/ACGAN-PyTorch 
+https://github.com/znxlwm/pytorch-generative-model-collections/blob/master/ACGAN.py 
+
+doubt : should it use class information ?
 
