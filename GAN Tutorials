@@ -21,3 +21,6 @@ CGAN and CDCGAN : https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN
 [5] GAN HACKS
 https://github.com/soumith/ganhacks
 
+[6] Coupled GAN COGAN
+https://github.com/mingyuliutw/CoGAN/tree/master/cogan_pytorch/src -- original authors
+
