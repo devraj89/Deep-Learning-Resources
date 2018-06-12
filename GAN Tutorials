@@ -15,3 +15,9 @@ https://github.com/znxlwm/pytorch-generative-model-collections/blob/master/ACGAN
 
 doubt : should it use class information ?
 
+[4] GAN and DCGAN : https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
+CGAN and CDCGAN : https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN
+
+[5] GAN HACKS
+https://github.com/soumith/ganhacks
+
