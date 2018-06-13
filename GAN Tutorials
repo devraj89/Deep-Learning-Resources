@@ -3,6 +3,8 @@ I will be mostly focussing on the Pytorch learning framework
 
 [1] GAN general implementations 
 https://github.com/znxlwm/pytorch-generative-model-collections
+https://github.com/wiseodd/generative-models
+https://github.com/eriklindernoren/PyTorch-GAN
 
 [2] WGAN and WGAN Improved 
 https://github.com/martinarjovsky/WassersteinGAN
