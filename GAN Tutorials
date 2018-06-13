@@ -26,7 +26,12 @@ https://github.com/soumith/ganhacks
 [6] Coupled GAN COGAN
 https://github.com/mingyuliutw/CoGAN/tree/master/cogan_pytorch/src -- original authors
 
-[7] Adverarially learned inference !
+[7] Disco GAN
+https://github.com/carpedm20/DiscoGAN-pytorch
+https://github.com/SKTBrain/DiscoGAN -- original authors
+https://github.com/sunshineatnoon/Paper-Implementations/tree/master/DiscoGAN
+
+[8] Adverarially learned inference !
 https://arxiv.org/pdf/1606.00704.pdf
 https://github.com/IshmaelBelghazi/ALI -- original authors
 https://ishmaelbelghazi.github.io/ALI/ -- original authors
