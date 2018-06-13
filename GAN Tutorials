@@ -31,4 +31,7 @@ https://arxiv.org/pdf/1606.00704.pdf
 https://github.com/IshmaelBelghazi/ALI -- original authors
 https://ishmaelbelghazi.github.io/ALI/ -- original authors
 
+*** NOTE the training part of the GAN is different in both ***
+*** To note which is the correct one I have to go through the original authors implementation***
 https://github.com/ozansener/GAN/tree/master/bigan -- another implementation
+https://github.com/wiseodd/generative-models/tree/master/GAN/ali_bigan
