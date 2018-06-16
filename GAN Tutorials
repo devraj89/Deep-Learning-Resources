@@ -16,7 +16,7 @@ https://github.com/caogang/wgan-gp
 https://github.com/gitlimlab/ACGAN-PyTorch 
 https://github.com/znxlwm/pytorch-generative-model-collections/blob/master/ACGAN.py 
 
-doubt : should it use class information ?
+doubt : should it use class information ? No we should not.
 
 [4] GAN and DCGAN : https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
 CGAN and CDCGAN : https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN
@@ -52,6 +52,29 @@ https://github.com/Vetal1977/semi-supervised-gan
 https://arxiv.org/pdf/1511.06390.pdf [UNSUPERVISED AND SEMI-SUPERVISED LEARNING WITH CATEGORICAL GANs]
 https://github.com/xinario/catgan_pytorch
 *** Check out the different entropy regularizations used ***
+
+
+
+
+
+
+
+
+
+****************************************************************************************
+****************************************************************************************
+To study and understand further 
+-- infogan**(difficult to understand -- look into code also) 
+--- bicycle gan (look into code to understand KL div loss)
+-- Energy based GAN 
+-- Boundary Seeking GAN
+-- adversarial auto encoders
+-- https://github.com/kimiyoung/ssl_bad_gan & https://arxiv.org/pdf/1705.09783.pdf
+-- Categorical GAN unsupervised & semi supervised 
+https://github.com/xinario/catgan_pytorch
+****************************************************************************************
+****************************************************************************************
+
 
 
 
