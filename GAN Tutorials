@@ -53,6 +53,9 @@ https://arxiv.org/pdf/1511.06390.pdf [UNSUPERVISED AND SEMI-SUPERVISED LEARNING 
 https://github.com/xinario/catgan_pytorch
 *** Check out the different entropy regularizations used ***
 
+[10] Energy based GANs
+https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/ebgan
+https://github.com/1Konny/EBGAN-pytorch
 
 
 
