@@ -78,7 +78,10 @@ https://github.com/xinario/catgan_pytorch
 ****************************************************************************************
 ****************************************************************************************
 
-
+Variational Auto-encoders 
+Let me first read it up from different blogs so that I must first understand it 
+- http://kvfrans.com/variational-autoencoders-explained/
+- https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf 
 
 
 
