@@ -86,8 +86,8 @@ Let me first read it up from different blogs so that I must first understand it
 - https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/ (KERAS CODE)
 - https://wiseodd.github.io/techblog/2017/01/24/vae-pytorch/ (PYTORCH CODE)
 - https://arxiv.org/pdf/1606.05908.pdf
-- https://github.com/pytorch/examples/tree/master/vae
-- https://vxlabs.com/2017/12/08/variational-autoencoder-in-pytorch-commented-and-annotated/
+- https://github.com/pytorch/examples/tree/master/vae (OFFICIAL CODE)
+- https://vxlabs.com/2017/12/08/variational-autoencoder-in-pytorch-commented-and-annotated/ (OFFICIAL CODE ANNOTATED)
 
 
 
