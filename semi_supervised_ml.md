@@ -14,3 +14,9 @@ the algorithm structure is provided here :
 https://sandipanweb.wordpress.com/2017/03/19/hard-soft-clustering-with-k-means-weighted-k-means-and-gmm-em/
 
 [4] 
+
+
+https://arxiv.org/pdf/1411.4555.pdf
+https://arxiv.org/pdf/1502.03044.pdf
+https://arxiv.org/pdf/1612.01887.pdf
+https://github.com/ruotianluo/ImageCaptioning.pytorch
