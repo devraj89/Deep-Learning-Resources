@@ -41,3 +41,17 @@ Some blogs and papers to read
 [5] Self-critical Sequence Training for Image Captioning -- https://arxiv.org/pdf/1612.00563.pdf
 P.S. NOTE THAT I HAVE NOT READ THIS PAPER. THIS PAPER SEEMS TO HAVE BEEN WRITTEN USING THE CONCEPTS OF RE-INFORCEMENT LEARNING!
 [6] Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering -- https://arxiv.org/pdf/1707.07998.pdf
+
+
+
+
+For using the word2vec models
+http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
+
+https://stats.stackexchange.com/questions/267169/how-to-use-pre-trained-word2vec-model
+
+http://ahogrammer.com/2017/01/20/the-list-of-pretrained-word-embeddings/
+
+https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+
+
