@@ -35,6 +35,9 @@ https://github.com/ngarneau/understanding-pytorch-batching-lstm
 
 https://github.com/eladhoffer/captionGen
 
+[6] https://github.com/Atcold/pytorch-CortexNet -- Implementations of different LSTM Cells. I had a short discussion with 
+AtCold. He seemed very helpful.
+
 
 For image to caption generation
 ------------------------------------
