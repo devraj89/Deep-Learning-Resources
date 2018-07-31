@@ -57,6 +57,10 @@ Some blogs and papers to read
 
 [2] Show, Attend and Tell: Neural Image Caption Generation with Visual Attention -- https://arxiv.org/pdf/1502.03044.pdf
 
+https://medium.com/@ahmdtaha/show-attend-and-tell-neural-image-caption-generation-with-visual-attention-9772ca582be5
+
+https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f
+
 [3] https://blog.heuritech.com/2016/01/20/attention-mechanism/
 
 [4] Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning -- https://arxiv.org/pdf/1612.01887.pdf
