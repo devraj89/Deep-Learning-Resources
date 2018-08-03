@@ -1,60 +1,90 @@
 Here I am listing all the resources I am using to learn about GAN's and their implementations 
+
 I will be mostly focussing on the Pytorch learning framework 
 
-[1] GAN general implementations 
+[1] GAN general implementations
+
 https://github.com/znxlwm/pytorch-generative-model-collections
+
 https://github.com/wiseodd/generative-models
+
 https://github.com/eriklindernoren/PyTorch-GAN
+
 https://github.com/sunshineatnoon/Paper-Implementations
 
 [2] WGAN and WGAN Improved 
+
 https://github.com/martinarjovsky/WassersteinGAN
+
 https://github.com/caogang/wgan-gp
 
 [3] ACGAN -- two implementations are available 
+
 -- does not use class information on D and G as inputs
+
 https://github.com/gitlimlab/ACGAN-PyTorch 
+
 https://github.com/znxlwm/pytorch-generative-model-collections/blob/master/ACGAN.py 
 
 doubt : should it use class information ? No we should not.
 
 [4] GAN and DCGAN : https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
+
 CGAN and CDCGAN : https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN
 
 [5] GAN HACKS
+
 https://github.com/soumith/ganhacks
+
 Improved Techniques for Training GANs -- https://github.com/Sleepychord/ImprovedGAN-pytorch
 
 [6] Coupled GAN COGAN
+
 https://github.com/mingyuliutw/CoGAN/tree/master/cogan_pytorch/src -- original authors
 
 [7] Disco GAN
+
 https://github.com/carpedm20/DiscoGAN-pytorch
+
 https://github.com/SKTBrain/DiscoGAN -- original authors
+
 https://github.com/sunshineatnoon/Paper-Implementations/tree/master/DiscoGAN
 
 [8] Adverarially learned inference !
+
 https://arxiv.org/pdf/1606.00704.pdf
+
 https://github.com/IshmaelBelghazi/ALI -- original authors
+
 https://ishmaelbelghazi.github.io/ALI/ -- original authors
 
 *** NOTE the training part of the GAN is different in both ***
+
 *** To note which is the correct one I have to go through the original authors implementation***
+
 *** Looking at algorithm 1 in paper I found that ozansener's implementation is matching ***
+
 https://github.com/ozansener/GAN/tree/master/bigan -- another implementation
+
 https://github.com/wiseodd/generative-models/tree/master/GAN/ali_bigan
 
 [9] Semi supervised GAN's
+
 https://arxiv.org/pdf/1606.01583.pdf [Semi-Supervised Generative Adversarial Network]
+
 https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/sgan/sgan.py -- matches with that of the paper
+
 https://github.com/Vetal1977/semi-supervised-gan
 
 https://arxiv.org/pdf/1511.06390.pdf [UNSUPERVISED AND SEMI-SUPERVISED LEARNING WITH CATEGORICAL GANs]
+
 https://github.com/xinario/catgan_pytorch
 *** Check out the different entropy regularizations used ***
 
 [10] Energy based GANs
+
 https://github.com/eriklindernoren/PyTorch-GAN/tree/master/implementations/ebgan
+
 https://github.com/1Konny/EBGAN-pytorch
 
 
