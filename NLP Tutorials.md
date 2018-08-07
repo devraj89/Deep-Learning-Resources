@@ -50,6 +50,16 @@ For image to caption generation
 
 [4] https://github.com/yunjey/show-attend-and-tell
 
+[5] https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
+
+[6] https://github.com/yudi09/pytorch-image-captioning
+
+[7] https://github.com/luckytoilet/csc2548-caption-rnn
+
+[8] https://github.com/DeepRNN/image_captioning
+
+[9] https://github.com/tensorflow/models/tree/master/research/im2txt -- official codes from tensorflow !!
+
 Some blogs and papers to read 
 -----------------------------
 
