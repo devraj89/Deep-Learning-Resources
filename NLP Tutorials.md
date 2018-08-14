@@ -38,6 +38,7 @@ https://github.com/eladhoffer/captionGen
 [6] https://github.com/Atcold/pytorch-CortexNet -- Implementations of different LSTM Cells. I had a short discussion with 
 AtCold. He seemed very helpful.
 
+[7] https://github.com/MaximumEntropy/Seq2Seq-PyTorch -- seems to be a very good code with all implementations of the beam search and all. He has also provided the benchmark results which seems to be quite good.
 
 For image to caption generation
 ------------------------------------
