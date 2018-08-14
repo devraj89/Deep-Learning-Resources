@@ -23,3 +23,7 @@ https://arxiv.org/pdf/1502.03044.pdf
 https://arxiv.org/pdf/1612.01887.pdf
 
 https://github.com/ruotianluo/ImageCaptioning.pytorch
+
+For Object Detection
+---------------------------------------------------
+https://github.com/ronghanghu/seg_every_thing
