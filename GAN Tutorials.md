@@ -26,7 +26,11 @@ https://github.com/gitlimlab/ACGAN-PyTorch
 
 https://github.com/znxlwm/pytorch-generative-model-collections/blob/master/ACGAN.py 
 
-doubt : should it use class information ? No we should not.
+doubt : should it use class information ? No we should not according to the paper. But in the implementations above it seems that class information is being used in the G to generate samples.
+
+https://github.com/znxlwm/pytorch-generative-model-collections/blob/master/ACGAN.py#L188
+
+https://github.com/gitlimlab/ACGAN-PyTorch/blob/master/main.py#L203
 
 [4] GAN and DCGAN : https://github.com/znxlwm/pytorch-MNIST-CelebA-GAN-DCGAN
 
