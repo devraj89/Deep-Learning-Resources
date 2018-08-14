@@ -40,6 +40,8 @@ AtCold. He seemed very helpful.
 
 [7] https://github.com/MaximumEntropy/Seq2Seq-PyTorch -- seems to be a very good code with all implementations of the beam search and all. He has also provided the benchmark results which seems to be quite good.
 
+[8] https://github.com/AuCson/PyTorch-Batch-Attention-Seq2seq -- this implementation handles batched inputs, and that it implements a slightly different attention mechanism. the author has got 10X speed improvements ! he has said that the code seems to handle well his personal projects.
+
 For image to caption generation
 ------------------------------------
 
@@ -60,6 +62,8 @@ For image to caption generation
 [8] https://github.com/DeepRNN/image_captioning
 
 [9] https://github.com/tensorflow/models/tree/master/research/im2txt -- official codes from tensorflow !!
+
+[10] https://github.com/keon/seq2seq
 
 Some blogs and papers to read 
 -----------------------------
