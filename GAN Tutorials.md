@@ -18,6 +18,20 @@ https://github.com/martinarjovsky/WassersteinGAN
 
 https://github.com/caogang/wgan-gp
 
+Conditional WGAN and Improved WGAN
+-------------------------------------
+https://www.reddit.com/r/MachineLearning/comments/8hrfb4/p_implementation_of_conditional_wgan_and_wgan_in/
+
+https://github.com/jalola/improved-wgan-pytorch
+
+https://github.com/shaform/DeepNetworks/blob/master/notebooks/GAN%20-%20MNIST%20WACGAN-GP.ipynb
+
+https://github.com/fairytale0011/Conditional-WassersteinGAN
+
+http://blog.richardweiss.org/2017/07/21/conditional-wasserstein-gan.html
+
+https://github.com/ririw/ririw.github.io/blob/master/assets/conditional-wasserstein-gans/Improved.ipynb
+
 [3] ACGAN -- two implementations are available 
 
 -- does not use class information on D and G as inputs
