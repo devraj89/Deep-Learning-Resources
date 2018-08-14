@@ -143,6 +143,7 @@ Let me first read it up from different blogs so that I must first understand it
 RelativisticGAN
 -----------------
 https://github.com/AlexiaJM/RelativisticGAN
+
 https://github.com/AlexiaJM/Generative-model-most-similar-images
 
 
