@@ -36,9 +36,6 @@ https://github.com/ririw/ririw.github.io/blob/master/assets/conditional-wasserst
 
 [3] ACGAN -- two implementations are available 
 ------------------------------------------------
-
--- does not use class information on D and G as inputs
-
 https://github.com/gitlimlab/ACGAN-PyTorch 
 
 https://github.com/znxlwm/pytorch-generative-model-collections/blob/master/ACGAN.py 
