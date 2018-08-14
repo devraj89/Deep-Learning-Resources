@@ -140,5 +140,10 @@ Let me first read it up from different blogs so that I must first understand it
 - https://github.com/pytorch/examples/tree/master/vae (OFFICIAL CODE)
 - https://vxlabs.com/2017/12/08/variational-autoencoder-in-pytorch-commented-and-annotated/ (OFFICIAL CODE ANNOTATED)
 
+RelativisticGAN
+-----------------
+https://github.com/AlexiaJM/RelativisticGAN
+https://github.com/AlexiaJM/Generative-model-most-similar-images
+
 
 
