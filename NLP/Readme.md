@@ -13,7 +13,7 @@ This is not absolutely necessary. There are many PyTorch Codes floating around.
 
 I would definately suggest to atleast look through some of them.
 
-[2] Beam Search : This is extremely importance as presently we are using greedy search.
+[2] Beam Search : This is extremely important as presently we are using greedy search.
 Greedy search works much worse than that of Beam Search.
 One implementation is here 
 https://github.com/MaximumEntropy/Seq2Seq-PyTorch
