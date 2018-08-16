@@ -17,3 +17,6 @@ I would definately suggest to atleast look through some of them.
 Greedy search works much worse than that of Beam Search.
 One implementation is here 
 https://github.com/MaximumEntropy/Seq2Seq-PyTorch
+
+[3] Do the batchwise training. In this above examples everything has been done in a single object wise.
+batchwise training should be much faster and gradients will come up also better.
