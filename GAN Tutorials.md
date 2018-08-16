@@ -34,6 +34,8 @@ http://blog.richardweiss.org/2017/07/21/conditional-wasserstein-gan.html
 
 https://github.com/ririw/ririw.github.io/blob/master/assets/conditional-wasserstein-gans/Improved.ipynb
 
+https://github.com/EmilienDupont/wgan-gp -- code running well for MNIST Data !!
+
 [3] ACGAN -- two implementations are available 
 ------------------------------------------------
 https://github.com/gitlimlab/ACGAN-PyTorch 
