@@ -1,6 +1,6 @@
 These are files to study about NLP in the pytorch
 
-pytorch tutorials 
+I. pytorch tutorials 
 ------------------------------------
 
 [1] https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
@@ -44,7 +44,7 @@ AtCold. He seemed very helpful.
 
 [9] https://github.com/keon/seq2seq
 
-For image to caption generation
+II. For image to caption generation
 ------------------------------------
 Show and Tell
 -------------
@@ -85,13 +85,14 @@ Some Codebases
 
 [3] https://github.com/ruotianluo/self-critical.pytorch
 
-[6] https://github.com/yudi09/pytorch-image-captioning
+[4] https://github.com/yudi09/pytorch-image-captioning
 
-[7] https://github.com/luckytoilet/csc2548-caption-rnn
+[5] https://github.com/luckytoilet/csc2548-caption-rnn
+
+[6] https://github.com/yashk2810/Image-Captioning
 
 
-
-Some blogs and papers to read 
+III. Some blogs and papers to read 
 -----------------------------
 
 [1] Show and Tell: A Neural Image Caption Generator -- https://arxiv.org/pdf/1411.4555.pdf
@@ -115,7 +116,7 @@ P.S. NOTE THAT I HAVE NOT READ THIS PAPER. THIS PAPER SEEMS TO HAVE BEEN WRITTEN
 
 
 
-For using the word2vec models
+IV. For using the word2vec models
 ------------------------------------
 
 http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
