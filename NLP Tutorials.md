@@ -46,6 +46,38 @@ AtCold. He seemed very helpful.
 
 For image to caption generation
 ------------------------------------
+Show and Tell
+-------------
+[1] https://github.com/amundv/kth-sml-project
+
+[2] https://github.com/muggin/show-and-tell
+
+[3] https://github.com/tensorflow/models/tree/master/research/im2txt -- official codes from tensorflow !!
+
+Show Attend and Tell
+-------------------------
+[1] https://github.com/parksunwoo/show_attend_and_tell_pytorch
+
+[2] https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
+
+[3] https://github.com/DeepRNN/image_captioning
+
+[4] https://github.com/yunjey/show-attend-and-tell
+
+Knowing When to Look
+----------------------
+[1] https://github.com/yufengm/Adaptive
+
+[2] https://github.com/metrofun/AdaptiveAttention
+
+[3] https://github.com/jiasenlu/AdaptiveAttention
+
+[4] https://github.com/amaiasalvador/imcap_keras
+
+[5] https://github.com/yunjey/knowing-when-to-look
+
+Some Codebases
+----------------
 
 [1] https://github.com/ruotianluo/ImageCaptioning.pytorch
 
@@ -53,17 +85,11 @@ For image to caption generation
 
 [3] https://github.com/ruotianluo/self-critical.pytorch
 
-[4] https://github.com/yunjey/show-attend-and-tell
-
-[5] https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
-
 [6] https://github.com/yudi09/pytorch-image-captioning
 
 [7] https://github.com/luckytoilet/csc2548-caption-rnn
 
-[8] https://github.com/DeepRNN/image_captioning
 
-[9] https://github.com/tensorflow/models/tree/master/research/im2txt -- official codes from tensorflow !!
 
 Some blogs and papers to read 
 -----------------------------
