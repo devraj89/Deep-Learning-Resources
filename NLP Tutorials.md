@@ -1,11 +1,6 @@
 The below list includes various resources comprising of NLP and image-captioning tutorials, papers and implementations of the papers as well as few blogs that would help in understanding the papers.
 
-<<<<<<< HEAD
-I. pytorch tutorials 
-------------------------------------
-=======
 *Note: Most of the tutorials and implementations below are in pytorch.*
->>>>>>> 07641a11205f5331aa218b8fec931213d9d46211
 
 Pytorch Tutorials 
 ------------------------------------
@@ -119,14 +114,7 @@ P.S. NOTE THAT I HAVE NOT READ THIS PAPER. THIS PAPER SEEMS TO HAVE BEEN WRITTEN
 
 [6] Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering -- https://arxiv.org/pdf/1707.07998.pdf
 
-<<<<<<< HEAD
-
-
-
-IV. For using the word2vec models
-=======
 For using the word2vec models
->>>>>>> 07641a11205f5331aa218b8fec931213d9d46211
 ------------------------------------
 
 http://mccormickml.com/2016/04/12/googles-pretrained-word2vec-model-in-python/
