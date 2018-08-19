@@ -1,31 +1,29 @@
-These are files to study about NLP in the pytorch
+The below list includes various resources comprising of NLP and image-captioning tutorials, papers and implementations of the papers as well as few blogs that would help in understanding the papers.
 
-pytorch tutorials 
+Note: Most of the tutorials implementations are in pytorch.
+
+Pytorch Tutorials 
 ------------------------------------
+Basics
 
-[1] https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
+- [https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html](Getting Started-0)
 
-[2] https://github.com/spro/practical-pytorch and 
+- [https://github.com/hunkim/PyTorchZeroToAll] (Getting Started-1)
 
--- this has been moved into the official pytorch tutorial sections 
+- [https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html#sphx-glr-intermediate-char-rnn-classification-tutorial-py](Classifying Names with Character-Level RNN)
 
-https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html#sphx-glr-intermediate-char-rnn-classification-tutorial-py
+- [https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html](Generating Names with Character-Level RNN)
 
-https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
-
-https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+- [https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html](Translation with a Seq2seq network and Attention)
 
 For understanding the working of sequence 2 sequence networks 
+I would reccomend to atleast go over these papers : 
 
-I should atleast go over these papers : 
+(a) [https://arxiv.org/pdf/1409.3215.pdf](Sequence to Sequence Learning with Neural Networks)
 
-(a) https://arxiv.org/pdf/1409.3215.pdf
+(b) [https://arxiv.org/pdf/1409.0473.pdf](NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING  TO ALIGN AND TRANSLATE)
 
-(b) https://arxiv.org/pdf/1409.0473.pdf
-
-(c) https://arxiv.org/pdf/1508.04025.pdf
-
-[3] https://github.com/hunkim/PyTorchZeroToAll
+(c) [https://arxiv.org/pdf/1508.04025.pdf](Effective Approaches to Attention-based Neural Machine Translation)
 
 [4] Understanding and visualizing pytorch lstm batching 
 
